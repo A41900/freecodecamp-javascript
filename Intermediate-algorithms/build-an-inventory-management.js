@@ -1,3 +1,9 @@
+/**
+ * Simple inventory management system.
+ * Supports adding products, updating quantities and removing items.
+ * Demonstrates array of objects, CRUD logic and basic error handling.
+ */
+
 let inventory = [];
 
 function findProductIndex(name){
