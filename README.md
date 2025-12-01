@@ -1,35 +1,73 @@
-# FreeCodeCamp – JavaScript Algorithms and Data Structures
+# FreeCodeCamp – JavaScript Algorithms & Mini Projects
 
-This repository contains my solutions to the FreeCodeCamp JavaScript Algorithms and Data Structures Certification.
-The goal is to improve my understanding of JavaScript fundamentals, problem-solving and algorithmic thinking while building a clean and organised coding portfolio.
+This repository contains my solutions and practice exercises developed while completing the **FreeCodeCamp JavaScript Algorithms and Data Structures** certification.  
+The goal is to strengthen my understanding of JavaScript fundamentals, problem-solving, algorithmic thinking, and build a clean and well-structured coding portfolio.
 
 ---
 
-## 📁 Structure
+## 📁 Repository Structure
 
-- **basic-algorithms** — simple algorithm challenges  
-- **intermediate-algorithms** — more complex logic exercises (coming soon)  
-- **functional-programming** — practice with map, filter, reduce (coming soon)  
-- **projects** — the final certification projects (coming soon)
+### 🔹 **basic-algorithms/**
+Introductory exercises focused on logic, loops, mathematical reasoning, and array/object manipulation.  
+Examples include:
+- Smallest common multiple  
+- Sum of prime numbers  
+- Symmetric difference between arrays  
+- Filtering and sorting objects  
 
-More challenges will be added as I progress.
+---
+
+### 🔹 **Intermediate-algorithms/**
+More complex logic exercises involving CRUD operations, data handling, and multi-step logic.  
+Current exercise:
+- Inventory Management System
+
+---
+
+### 🔹 **mini-projects/**
+Small interactive projects built with **HTML, CSS, and JavaScript** to practice DOM manipulation and real UI behavior:
+- ⭐ Favorite Icon Toggler  
+- ⚽ Football Team Cards  
+*(more mini-projects will be added as I progress)*
+
+---
+
+### 🔹 **functional-programming/**
+Exercises using `map()`, `filter()`, `reduce()` and other functional programming concepts.  
+*(coming soon)*
 
 ---
 
 ## 🚀 Progress
-- ✓ Basic algorithms  
-- ☐ Intermediate algorithms  
-- ☐ Functional programming  
-- ☐ Final projects  
+
+- ✓ Basic Algorithms  
+- ✓ Mini Projects  
+- ✓ Intermediate Algorithms  
+- ☐ Functional Programming  
+- ☐ Final FreeCodeCamp Projects  
 
 ---
 
-## 🧠 Technologies
-- JavaScript (ES6+)
-- Git & GitHub
-- VS Code
+## 🧠 Technologies Used
+
+- JavaScript (ES6+)  
+- HTML5 & CSS3 (for mini-projects)  
+- Git & GitHub  
+- VS Code  
 
 ---
 
-## 📌 Notes
-All solutions are written by me while studying for the FreeCodeCamp certification.
+## 🎯 Purpose of This Repository
+
+This repository serves as:
+
+- a study hub for reinforcing core JavaScript skills  
+- a record of my learning journey  
+- part of my portfolio as I transition into the tech industry  
+- a demonstration of consistency, problem-solving and clean code practices  
+
+---
+
+## 📝 Notes
+
+All solutions are written by me while studying for the FreeCodeCamp certification and building confidence in JavaScript coding.
