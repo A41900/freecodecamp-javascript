@@ -1,51 +1,82 @@
-# ⭐ Favorite Icon Toggler
+# FreeCodeCamp – JavaScript Algorithms & Mini Projects
 
-Small project in **HTML, CSS and JavaScript** that allows marking and unmarking items in a list as “favorites”.  
-The goal is to practice **event listeners**, DOM manipulation and dynamic updates of classes and content.
-
----
-
-## 📌 Features
-- Toggle between “favorite” ❤️ and “not favorite” 🤍  
-- Automatic change of the icon's color and style  
-- Simple demonstration of:
-  - `addEventListener()`
-  - `classList.toggle()`
-  - manipulation via `innerHTML`
-  - loops with `forEach()`
-- Title styled letter by letter using JavaScript
+This repository contains my solutions and practice exercises developed while completing the **FreeCodeCamp JavaScript Algorithms and Data Structures** certification.  
+The goal is to strengthen my understanding of JavaScript fundamentals, problem-solving, algorithmic thinking, and to build a clean and well-structured coding portfolio.
 
 ---
 
-## 🖥️ Technologies Used
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6)**
+## 📁 Repository Structure
+
+### 🔹 **basic-algorithms/**
+Introductory exercises focused on logic, loops, mathematical reasoning, and array/object manipulation.  
+Examples include:
+- Smallest common multiple  
+- Sum of prime numbers  
+- Symmetric difference between arrays  
+- Filtering and sorting objects  
 
 ---
 
-## 📂 Project Structure
-
-favorite-icon-toggler/  
-│  
-├── index.html  # Page structure and item list  
-├── styles.css  # Visual styles and colors  
-├── script.js   # Interaction logic (heart toggle)  
-└── README.md   # Project documentation  
+### 🔹 **intermediate-algorithms/**
+More complex logic exercises involving CRUD operations, data handling, and multi-step reasoning.  
+Current exercise:
+- Inventory Management System
 
 ---
 
-## 🎯 Learning Purpose
-This mini-project was created as part of my JavaScript practice to reinforce:
+### 🔹 **mini-projects/**
+Small interactive projects built with **HTML, CSS, and JavaScript** to practice DOM manipulation and real UI behavior.  
+This folder includes:
 
-- DOM manipulation  
-- Click event handling  
-- Updating classes dynamically  
-- Creating dynamic HTML content  
+- ⭐ **Favorite Icon Toggler**  
+- ⚽ **Football Team Cards**  
+- 📝 **Customer Complaint Form Validation**  
+  - FreeCodeCamp project: HTML and CSS provided by the platform  
+  - All JavaScript validation logic implemented by me  
+  - Features: real-time validation, regex patterns, conditional field logic, and form submission handling  
 
-It is a simple but useful exercise to begin building interactive front-end features.
+*(More mini-projects will be added as I progress.)*
 
 ---
 
-## 🧡 Note
-Project developed while studying for the **FreeCodeCamp – JavaScript Algorithms and Data Structures** certification.
+### 🔹 **functional-programming/**
+Exercises using `map()`, `filter()`, `reduce()`, and other functional programming concepts.  
+*(coming soon)*
+
+---
+
+## 🚀 Progress
+
+- ✓ Basic Algorithms 
+- ✓ Intermediate Algorithms  
+- ✓ Mini Projects  
+- ☐ Functional Programming  
+- ☐ Final FreeCodeCamp Projects  
+
+---
+
+## 🧠 Technologies Used
+
+- JavaScript (ES6+)  
+- HTML5 & CSS3 (for mini-projects)  
+- Git & GitHub  
+- VS Code  
+
+---
+
+## 🎯 Purpose of This Repository
+
+This repository serves as:
+
+- a study hub for reinforcing core JavaScript skills  
+- a record of my learning journey  
+- part of my portfolio as I transition into the tech industry  
+- a demonstration of consistency, problem-solving, and clean code practices  
+
+---
+
+## 📝 Notes
+
+All solutions and mini-projects are written by me while studying for the FreeCodeCamp certification.  
+Some projects include HTML/CSS templates provided by FreeCodeCamp, but **all JavaScript logic is implemented by me** to practice structure, validation, and DOM manipulation.
+

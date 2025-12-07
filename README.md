@@ -17,18 +17,26 @@ Examples include:
 
 ---
 
-### 🔹 **Intermediate-algorithms/**
-More complex logic exercises involving CRUD operations, data handling, and multi-step logic.  
+### 🔹 **intermediate-algorithms/**
+More complex logic exercises involving CRUD operations, data handling, and multi-step reasoning.  
 Current exercise:
 - Inventory Management System
 
 ---
 
 ### 🔹 **mini-projects/**
-Small interactive projects built with **HTML, CSS, and JavaScript** to practice DOM manipulation and real UI behavior:
-- ⭐ Favorite Icon Toggler  
-- ⚽ Football Team Cards  
-*(more mini-projects will be added as I progress)*
+Small interactive projects built with **HTML, CSS, and JavaScript** to practice DOM manipulation, event handling, and real UI behavior:
+
+- ⭐ **Favorite Icon Toggler**  
+- ⚽ **Football Team Cards**  
+- 📝 **Customer Complaint Form Validation**  
+  - FreeCodeCamp project (HTML/CSS provided, all JavaScript developed by me)  
+  - Includes field validation, regex patterns, dynamic error styling, and form submission control  
+- 🔤 **Markdown to HTML Converter**  
+  - Custom Markdown parser built in vanilla JavaScript  
+  - Supports headings, quotes, bold, italics, links, images, and live preview  
+
+*(More mini-projects will be added as I progress.)*
 
 ---
 
@@ -70,4 +78,5 @@ This repository serves as:
 
 ## 📝 Notes
 
-All solutions are written by me while studying for the FreeCodeCamp certification and building confidence in JavaScript coding.
+All solutions and mini-projects are written by me while studying for the FreeCodeCamp certification.  
+Some projects include HTML/CSS templates provided by FreeCodeCamp, but **all JavaScript logic is implemented by me**.
