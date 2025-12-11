@@ -1,53 +1,46 @@
 # FreeCodeCamp – JavaScript Algorithms & Mini Projects
 
-This repository contains my solutions and practice exercises developed while completing the **FreeCodeCamp JavaScript Algorithms and Data Structures** certification.  
-The goal is to strengthen my understanding of JavaScript fundamentals, problem-solving, algorithmic thinking, and build a clean and well-structured coding portfolio.
+This repository contains my JavaScript exercises and mini projects developed while completing the **FreeCodeCamp JavaScript Algorithms and Data Structures** certification.  
+The goal is to strengthen my understanding of algorithms, problem-solving, and front-end fundamentals while building a clean, organized, and beginner-friendly coding portfolio.
 
 ---
 
-## 📁 Repository Structure
+## 📁 Project Structure
 
-### 🔹 **basic-algorithms/**
-Introductory exercises focused on logic, loops, mathematical reasoning, and array/object manipulation.  
-Examples include:
-- Smallest common multiple  
-- Sum of prime numbers  
-- Symmetric difference between arrays  
-- Filtering and sorting objects  
+### 🔹 basic-algorithms/
+Foundational exercises focused on logical reasoning, loops, math operations, and array/object manipulation.  
+Examples:  
+Smallest Common Multiple • Sum of Primes • Symmetric Difference • Sorting/Filtering • Pig Latin Translator
 
 ---
 
-### 🔹 **intermediate-algorithms/**
-More complex logic exercises involving CRUD operations, data handling, and multi-step reasoning.  
-Current exercise:
-- Inventory Management System
+### 🔹 intermediate-algorithms/
+Multi-step logic challenges and data-handling exercises.
+
+Projects included:
+- **Inventory Management System**
+- **Voting System** (poll creation using Map & Set with validation)
 
 ---
 
-### 🔹 **mini-projects/**
-Small interactive projects built with **HTML, CSS, and JavaScript** to practice DOM manipulation, event handling, and real UI behavior:
+### 🔹 mini-projects/
+Interactive projects built with **HTML, CSS, and JavaScript**, focused on DOM manipulation and UI behavior:
 
-- ⭐ **Favorite Icon Toggler**  
-- ⚽ **Football Team Cards**  
-- 📝 **Customer Complaint Form Validation**  
-  - FreeCodeCamp project (HTML/CSS provided, all JavaScript developed by me)  
-  - Includes field validation, regex patterns, dynamic error styling, and form submission control  
-- 🔤 **Markdown to HTML Converter**  
-  - Custom Markdown parser built in vanilla JavaScript  
-  - Supports headings, quotes, bold, italics, links, images, and live preview  
-
-*(More mini-projects will be added as I progress.)*
+- ⭐ Favorite Icon Toggler  
+- ⚽ Football Team Cards  
+- 📝 Customer Complaint Form (regex validation, dynamic styling)  
+- 🔤 Markdown to HTML Converter (custom parser)  
+- 🥁 Drum Machine (keyboard + click sound triggers)
 
 ---
 
-### 🔹 **functional-programming/**
-Exercises using `map()`, `filter()`, `reduce()` and other functional programming concepts.  
+### 🔹 functional-programming/
+Exercises using `map()`, `filter()`, `reduce()`, and related concepts.  
 *(coming soon)*
 
 ---
 
 ## 🚀 Progress
-
 - ✓ Basic Algorithms  
 - ✓ Mini Projects  
 - ✓ Intermediate Algorithms  
@@ -57,26 +50,22 @@ Exercises using `map()`, `filter()`, `reduce()` and other functional programming
 ---
 
 ## 🧠 Technologies Used
-
 - JavaScript (ES6+)  
-- HTML5 & CSS3 (for mini-projects)  
+- HTML5 & CSS3  
 - Git & GitHub  
 - VS Code  
 
 ---
 
-## 🎯 Purpose of This Repository
-
+## 🎯 Purpose
 This repository serves as:
-
-- a study hub for reinforcing core JavaScript skills  
-- a record of my learning journey  
+- a study hub while preparing for the FreeCodeCamp certification  
+- a record of my learning progress  
+- a demonstration of clean code practices  
 - part of my portfolio as I transition into the tech industry  
-- a demonstration of consistency, problem-solving and clean code practices  
 
 ---
 
 ## 📝 Notes
-
-All solutions and mini-projects are written by me while studying for the FreeCodeCamp certification.  
-Some projects include HTML/CSS templates provided by FreeCodeCamp, but **all JavaScript logic is implemented by me**.
+All solutions and projects were written by me.  
+Some FreeCodeCamp challenges provide HTML/CSS templates, but **all JavaScript logic is implemented by me**.
