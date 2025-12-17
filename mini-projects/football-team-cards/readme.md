@@ -1,12 +1,9 @@
-# ⚽ Football Team Cards — Player Filter App
+# 🌸 Football Team Cards — Player Filter App
 
 Mini application built with **HTML, CSS and JavaScript**, displaying team player cards and allowing filtering by position (forward, midfielder, defender, goalkeeper).
-
 The goal is to practice DOM manipulation, dynamic element creation, events, and data filtering in arrays.
 
----
-
-## 📌 Features
+## Features
 
 - Displays main team information: name, year, and head coach.
 - Shows individual player cards.
@@ -18,18 +15,14 @@ The goal is to practice DOM manipulation, dynamic element creation, events, and 
   - `appendChild`
   - array filtering (`filter`)
   - dynamic DOM cleaning and updating
-
----
-
-## 🖥️ Technologies Used
+    
+## Technologies Used
 
 - **HTML5**
 - **CSS3**
 - **JavaScript (ES6)**
 
----
-
-## 📁 Project Structure
+## Project Structure
 
 football-team-cards/  
 │  
@@ -38,32 +31,12 @@ football-team-cards/
 ├── script.js    # Filtering logic and DOM manipulation  
 └── README.md    # Project documentation  
 
----
-
-## 🚀 How to Run
-
-1. Download or clone the repository:
-git clone https://github.com/A41900/freecodecamp-javascript.git
-
-2. Navigate to the project folder:
-cd freecodecamp-javascript/mini-projects/football-team-cards
-
-
-3. Open the **index.html** file in your browser.
-
----
-
-## 🎯 Learning Purpose
+## Learning Purpose
 
 This project was created as part of the **FreeCodeCamp – JavaScript Algorithms and Data Structures** certification, focusing on:
-
 - Representing data using objects and arrays  
 - Manipulating the DOM without frameworks  
 - Building dynamic UI elements with JavaScript  
 - Practicing logic and front-end events  
 
----
-
-## 🧡 Note
-
-Code developed by me as part of my learning journey and preparation to enter the tech industry.
+> Code developed by me as part of my learning journey and preparation to enter the tech industry.
