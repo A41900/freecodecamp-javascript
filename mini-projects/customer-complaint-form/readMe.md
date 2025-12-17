@@ -1,12 +1,12 @@
-# Customer Complaint Form – Validation Project
+# 🌸 Customer Complaint Form – Validation Project
 
 This project was developed as part of the FreeCodeCamp curriculum.  
 The HTML and CSS were provided by the exercise, while all JavaScript validation logic was implemented by me.
 
-## 📌 Project Overview
+## Project Overview
 The goal of this project is to build a fully validated customer complaint form with dynamic feedback. Each form field must follow specific validation rules, and the form should prevent submission if any requirement is not met.
 
-## 🎯 Features
+## Features
 - Real-time validation on input change  
 - Custom validation rules for:
   - Full name (not empty)
