@@ -1,4 +1,4 @@
-# 📌 Bookmark Manager
+# 🌸 Bookmark Manager
 
 A simple bookmark management application built with **HTML, CSS, and JavaScript**.
 
@@ -7,7 +7,7 @@ It was developed as a practice project to strengthen my understanding of **DOM m
 
 ---
 
-## 🚀 Features
+## Features
 
 - Add bookmarks with name, URL, and category
 - View bookmarks filtered by category
@@ -17,28 +17,20 @@ It was developed as a practice project to strengthen my understanding of **DOM m
 
 ---
 
-## 🧠 What I practiced / learned
+## What I practiced / learned
 
 - Manipulating the DOM using JavaScript
 - Working with browser `localStorage`
 - Structuring JavaScript code into reusable functions
 - Handling user input and basic validation
-- Implementing basic CRUD logic (Create, Read, Delete)
+- Implementing basic CRUD logic (Create, Read, Update, Delete)
 
 ---
 
-## 🛠️ Technologies Used
+## Project Status
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-
----
-
-## 📂 Project Status
-
-✔ Core functionality completed  
-🔧 Future improvements:
+Core functionality completed  
+Future improvements:
 - Input validation for URLs
 - Edit existing bookmarks
 - Improved UI/UX
@@ -46,7 +38,7 @@ It was developed as a practice project to strengthen my understanding of **DOM m
 
 ---
 
-## 📝 Notes
+## Notes
 
 This project was built as part of my JavaScript learning journey.  
 While I used learning resources and guidance during development, all code was written and understood by me.
