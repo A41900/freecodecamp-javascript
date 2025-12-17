@@ -1,4 +1,4 @@
-# FreeCodeCamp – JavaScript Algorithms & Mini Projects
+# 🌸 FreeCodeCamp – JavaScript Algorithms & Mini Projects
 
 This repository contains my JavaScript exercises and mini projects developed while completing the  
 **FreeCodeCamp JavaScript Algorithms and Data Structures** certification.
@@ -9,9 +9,9 @@ as I transition into the tech industry.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
-### 🔹 basic-algorithms/
+### basic-algorithms/
 Foundational exercises focused on logical reasoning, loops, mathematical operations, and
 array/object manipulation.
 
@@ -24,7 +24,7 @@ Examples include:
 
 ---
 
-### 🔹 intermediate-algorithms/
+### intermediate-algorithms/
 Multi-step logic challenges and data-handling exercises designed to reinforce structured thinking
 and problem decomposition.
 
@@ -34,43 +34,25 @@ Projects included:
 
 ---
 
-### 🔹 mini-projects/
+### mini-projects/
 Interactive projects built with **HTML, CSS, and JavaScript**, focused on DOM manipulation,
 event handling, and UI behavior:
 
-- 📌 Bookmark Manager (CRUD operations with `localStorage`)
-- ⭐ Favorite Icon Toggler  
-- ⚽ Football Team Cards  
-- 📝 Customer Complaint Form (regex validation, dynamic styling)  
-- 🔤 Markdown to HTML Converter (custom parser)  
-- 🥁 Drum Machine (keyboard and click-based sound triggers)  
-- 🌤️ Weather App (API consumption, async logic, dynamic UI updates)
+-  Bookmark Manager (CRUD operations with `localStorage`)
+-  Favorite Icon Toggler  
+-  Football Team Cards  
+-  Customer Complaint Form (regex validation, dynamic styling)  
+-  Markdown to HTML Converter (custom parser)  
+-  Drum Machine (keyboard and click-based sound triggers)  
+-  Weather App (API consumption, async logic, dynamic UI updates)
 
 > Some of these projects were developed following the FreeCodeCamp curriculum structure,
 > while all JavaScript logic was written, understood, and adapted by me.
 
----
-
-## 🚀 Certification Status
-
-- ✓ Basic Algorithms  
-- ✓ Intermediate Algorithms  
-- ✓ JavaScript Mini Projects  
-- ✓ FreeCodeCamp JavaScript Algorithms and Data Structures curriculum completed  
-- ⏳ Certification result pending (final exam recently completed)
 
 ---
 
-## 🧠 Technologies Used
-
-- JavaScript (ES6+)  
-- HTML5 & CSS3  
-- Git & GitHub  
-- VS Code  
-
----
-
-## 🎯 Purpose
+## Purpose
 
 This repository serves as:
 - a documented learning archive of my FreeCodeCamp journey  
@@ -80,7 +62,7 @@ This repository serves as:
 
 ---
 
-## 📝 Notes
+## Notes
 
 All solutions and projects were written by me as part of my learning process.  
 Some challenges provide starter HTML/CSS templates, but **all JavaScript logic and problem-solving
